@@ -1,6 +1,6 @@
 <h2>🎃 Haunted Pumpkin Hunt 🎃</h2>
 <h3>View Live Page</h3>
-Visit <a href="">my live page</a> to see the code perform.<br>
+Visit <a href="https://bee-create.github.io/Haunted-Pumpkin-Hunt/">my live page</a> to see the code perform.<br>
 <h3>Purpose of This Project</h3>
 The purpose of this project is to create an interactive, functional puzzle game with HTML, CSS, and JavaScript. <br>
 <h3>Tools & Tech Used</h3>
